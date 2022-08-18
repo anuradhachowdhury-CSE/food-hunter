@@ -11,3 +11,19 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+p{
+  margin:0;
+  font-size: 40px;
+}
+footer p{
+  font-size: 20px;
+}
+.menu h1,.menu h2,.menu h3{
+  font-family: orbitron;
+  color:white;
+  font-weight: 700;
+}
+.menu p{
+  color: rgb(180, 185, 190);
+  font-size: 40px;
+}
