@@ -79,7 +79,7 @@ nav .p{
   font-size: 50px;
   color: antiquewhite;
 }
-.btn{
+.explr-btn{
   width: 100px;
   height: 100px;
   border-radius: 50%;
@@ -90,7 +90,7 @@ nav .p{
   font-weight: 700;
  
 }
-.btn:hover{
+.explr-btn:hover{
   transition: all 0.5s ease;
   background: rgb(190, 243, 234);
   color: #212529;
@@ -219,3 +219,30 @@ padding: 50px ;
   color:white;
   font-weight: 700;
 }
+.text{
+  margin: 5%;
+  color:white;
+}
+.text-2{
+  color: gray;
+  /* font-size:20px; */
+  font-size: 25px;
+}
+
+@media (max-width: 768px){
+  .menu form{
+    background-color: blue;
+    margin: 0%;
+    font-size: medium;
+    padding: 1%;
+    display: flex;
+    }
+    .menu video{
+      width: 150%;
+      margin: 5%;
+    }
+    .text-home h1,.text-home p{
+      font-size: 15px;
+    }
+}
+

@@ -21,7 +21,16 @@ import card5 from '../vendor/image/card5.webp';
 import card6 from '../vendor/image/card6.jpeg';
 import card7 from '../vendor/image/card7.jpeg';
 import card8 from '../vendor/image/card8jpeg.jpeg';
-
+import img2 from '../vendor/image/img2.jpeg';
+import img3 from '../vendor/image/img3.jpeg';
+import img4 from '../vendor/image/img4.jpeg';
+import img5 from '../vendor/image/img5.jpeg';
+import img6 from '../vendor/image/img6.webp';
+import img7 from '../vendor/image/img7.jpeg';
+import img8 from '../vendor/image/img8.jpeg';
+import img9 from '../vendor/image/img9jpeg.jpeg';
+import img10 from '../vendor/image/img10.jpeg';
+import img11 from '../vendor/image/img11.jpeg';
 
 
 
@@ -29,6 +38,6 @@ import card8 from '../vendor/image/card8jpeg.jpeg';
 const images = {
     banner1,banner2,banner3,banner4,banner5,banner6,banner7,banner8
     ,side1,side1,side2,side4,side5,side6,side7,side8
-    ,card1,card2,card3,card4,card5,card6,card7,card8
+    ,card1,card2,card3,card4,card5,card6,card7,card8,img2,img3,img4,img5,img6,img7,img8,img9,img10,img11
 }
 export default images;
