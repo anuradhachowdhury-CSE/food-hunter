@@ -19,9 +19,9 @@ const Footer = () => {
                             <p>Innovation,Impact,Inspire</p> */}
                         </div>
                         <div className="row col-md-2">
-                            <a href="">Home</a>
-                            <a href="">About Us</a>
-                            <a href="">Portfolio</a>
+                            <a href="/">Home</a>
+                            <a href="/menu">Menu</a>
+                            <a href="/contact">Contact</a>
                             <a href="">Services</a>
                             <a href="">Contact</a>
                         </div>

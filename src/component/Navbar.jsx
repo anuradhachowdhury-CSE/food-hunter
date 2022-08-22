@@ -47,7 +47,7 @@ const Navbar = () => {
   // </nav>
   <nav className="navbar navbar-expand-lg navbar-dark bg-dark sticky-top">
   <div className="container-fluid">
-    <a className="navbar-brand" href="/">Food Hunter</a>
+    <a className="heading navbar-brand" href="/">Food Hunter</a>
     <button className="navbar-toggler" type="button" data-bs-toggle="offcanvas" data-bs-target="#offcanvasNavbar" aria-controls="offcanvasNavbar">
       <span className="navbar-toggler-icon"></span>
     </button>

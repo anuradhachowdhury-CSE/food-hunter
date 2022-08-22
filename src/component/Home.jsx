@@ -79,7 +79,7 @@ const Home = () => {
      <img className='img-fluid' src={images.card1} alt="" />
     </div>
     <div className="ms-auto col-md-6 col-10 text">
-       <h1 data-aos="fade-up" >An Innovative Concept from Chef Brenda Pío</h1>
+       <h1 data-aos="fade-up" >An Innovate Concept from Chef Brenda Pío</h1>
        <p data-aos="fade-up">I'm a paragraph. Click here to add your own text and edit me. It’s easy. Just click “Edit Text” or double click me to add your own content and make changes to the font. I’m a great place for you to tell a story and let your users know a little more about you.</p>
     </div>
 </div>
