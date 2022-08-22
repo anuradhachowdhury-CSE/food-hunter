@@ -32,8 +32,8 @@ const Home = () => {
                 <Parallax className='text-home'>
                     <div  className="content">
                         <div  className="text-content">
-                            <h1 data-aos="fade-up" >Welcome to FOOD HUNTER</h1>
-                            <p data-aos="fade-up">I'm a paragraph. Click here to add your own text and edit me. It’s easy. Just click “Edit Text” or double click me to add your own content and make changes to the font. </p>
+                            <h1 data-aos="flip-left" >Welcome to FOOD HUNTER</h1>
+                            <p data-aos="fade-down">I'm a paragraph. Click here to add your own text and edit me. It’s easy. Just click “Edit Text” or double click me to add your own content and make changes to the font. </p>
                             <a href="/#" class="explr-btn btn btn-primary "><span className="explore-menu">Explore Menu</span> </a>
                         </div>
                     </div>
