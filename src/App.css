@@ -210,7 +210,7 @@ padding: 50px ;
 .menu form{
   background-color: gray;
   opacity: 0.7;
-  padding: 10%;
+  padding: 2%;
 }
 .menu form label{
   color: black;
@@ -232,10 +232,10 @@ padding: 50px ;
 
 @media (max-width: 768px)  {
   .menu form{
-    background-color: blue;
+    background-color: gray;
     margin: 0%;
-    font-size: medium;
-    padding: 1%;
+    font-size: small;
+    padding: 0%;
     display: flex;
     }
     .menu video{
@@ -246,15 +246,15 @@ padding: 50px ;
       font-size: 15px;
     }
 }
-@media (max-width : 1200px){
+
+@media (min-width : 769px){
   .menu form{
     background-color: gray;
     /* color:white; */
     margin: 10px;
     font-size: medium;
     /* padding: 1%; */
-    display: flex;
-    flex-wrap: wrap;
+   
     }
     .menu video{
       width: 80%;
@@ -264,6 +264,7 @@ padding: 50px ;
       font-size: 15px;
     }
 }
+
 .heading{
   font-size: 40px;
   margin-left: 5%;
